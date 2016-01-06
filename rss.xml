@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thailand]]></title>
+        <description><![CDATA[Thailand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 22:10:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thailand Holiday Photos]]></title>
+            <description><![CDATA[<article><h1>Thailand Holiday Photos</h1><p>Various Photos taken 6/1/15</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d87ecbebf6dda6493f0a1d3098f7fa1dcc09a77f.jpg"></article>]]></description>
+            <link>undefinedthailand-holiday-photos/index.html</link>
+            <guid isPermaLink="false">6f62f7f8-7334-406f-811c-766ab3dde7e3</guid>
+            <pubDate>Wed, 06 Jan 2016 22:10:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
