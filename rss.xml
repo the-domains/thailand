@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Thailand]]></title>
         <description><![CDATA[Thailand]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thailand/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 22:10:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 22:16:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thailand/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Thailand Holiday Photos]]></title>
-            <description><![CDATA[<article><h1>Thailand Holiday Photos</h1><p>Various Photos taken 6/1/15</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d87ecbebf6dda6493f0a1d3098f7fa1dcc09a77f.jpg"></article>]]></description>
-            <link>undefinedthailand-holiday-photos/index.html</link>
+            <description><![CDATA[<article><h1>Thailand Holiday Photos</h1><p>photos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57152a14ae9b826344383533ca49675f6c0eaada.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thailand/thailand-holiday-photos/index.html</link>
             <guid isPermaLink="false">6f62f7f8-7334-406f-811c-766ab3dde7e3</guid>
-            <pubDate>Wed, 06 Jan 2016 22:10:11 GMT</pubDate>
+            <pubDate>Wed, 06 Jan 2016 22:16:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
