@@ -1,0 +1,28 @@
+name: Thailand
+favicon: null
+layout_spectrum: 0.8648105156607926
+typography_spectrum: 0.8719011477660388
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.23606480099260807
+  lightness: 0.6481019461061805
+  saturation: 0.8301287265494466
+  rhythmicContrast: 0.03475126018747687
+purpose: []
